@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+https://github.com/2937285931/2937285931.github.io
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently studying at Shaanxi Normal University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 2937285931qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+I am currently studying at Shaanxi Normal University.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+1.Artificial Intelligence
+2.Deep Learning
+3.Emotional Model
 

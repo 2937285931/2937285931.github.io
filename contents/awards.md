@@ -1,16 +1,4 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+During high school, I won dozens of honors including "Excellent Student Cadre at the University Level" and "Three Good Students at the University Level".
+ 
+During college, I am currently studying at Shaanxi Normal University. I won the title of "Military Training Model" in the College Students' Military Training and the First Prize at the College Level in the theme essay contest "Telling Good Stories of Red Candles".
